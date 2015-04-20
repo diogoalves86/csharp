@@ -1,0 +1,11 @@
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\bin\Debug\DiogoFalaParaVoce1.0.exe.config
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\obj\Debug\DiogoFalaParaVoce1.0.csprojResolveAssemblyReference.cache
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\obj\Debug\DiogoFalaParaVoce1._0.Properties.Resources.resources
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\obj\Debug\DiogoFalaParaVoce1.0.csproj.GenerateResource.Cache
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\bin\Debug\DiogoFalaParaVoce1.0.exe
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\bin\Debug\DiogoFalaParaVoce1.0.pdb
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\obj\Debug\DiogoFalaParaVoce1.0.exe
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\obj\Debug\DiogoFalaParaVoce1.0.pdb
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\bin\Debug\VozPortugues.dll
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\bin\Debug\VozPortugues.pdb
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\DiogoFalaParaVoce1.0\obj\Debug\DiogoFalaParaVoce1._0.Principal.resources

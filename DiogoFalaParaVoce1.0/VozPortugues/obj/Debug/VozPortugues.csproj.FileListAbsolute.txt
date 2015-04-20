@@ -1,0 +1,4 @@
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\VozPortugues\bin\Debug\VozPortugues.dll
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\VozPortugues\bin\Debug\VozPortugues.pdb
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\VozPortugues\obj\Debug\VozPortugues.dll
+c:\users\diogo\documents\visual studio 2013\Projects\DiogoFalaParaVoce1.0\VozPortugues\obj\Debug\VozPortugues.pdb

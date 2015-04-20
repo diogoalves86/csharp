@@ -1,0 +1,18 @@
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\bin\Debug\Sintetizador.exe.config
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\bin\Debug\Sintetizador.exe
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\bin\Debug\Sintetizador.pdb
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\obj\Debug\Sintetizador.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\obj\Debug\Sintetizador.Properties.Resources.resources
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\obj\Debug\Sintetizador.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\obj\Debug\Sintetizador.exe
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\obj\Debug\Sintetizador.pdb
+C:\Users\Vinicius\Desktop\Vídeo Aula\Aplicação\Sintetizador\Sintetizador\obj\Debug\Sintetizador.FrmPrincipal.resources
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\bin\Debug\Sintetizador.exe.config
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\obj\Debug\Sintetizador.exe
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\obj\Debug\Sintetizador.pdb
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\bin\Debug\Sintetizador.exe
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\bin\Debug\Sintetizador.pdb
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\obj\Debug\Sintetizador.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\obj\Debug\Sintetizador.FrmPrincipal.resources
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\obj\Debug\Sintetizador.Properties.Resources.resources
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\Sintetizador\Sintetizador\obj\Debug\Sintetizador.csproj.GenerateResource.Cache
