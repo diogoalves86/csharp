@@ -49,7 +49,6 @@
     <property name="MemberName" />
     <property name="Title" translatable="yes">Adicione um evento para sua agenda</property>
     <property name="WindowPosition">Center</property>
-    <property name="Modal">True</property>
     <child>
       <widget class="Gtk.Fixed" id="fixed6">
         <property name="MemberName" />
@@ -63,8 +62,18 @@
             <property name="UseUnderline">True</property>
           </widget>
           <packing>
-            <property name="X">122</property>
-            <property name="Y">19</property>
+            <property name="X">313</property>
+            <property name="Y">62</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label5">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">label5</property>
+          </widget>
+          <packing>
+            <property name="X">236</property>
+            <property name="Y">139</property>
           </packing>
         </child>
       </widget>

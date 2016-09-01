@@ -18,7 +18,7 @@ public partial class MainWindow: Gtk.Window
 	protected void btnAddEventoClicado (object sender, EventArgs e)
 	{
 		AdicionaEvento janelaAdicionaEvento = new AdicionaEvento ();
-		janelaAdicionaEvento.Show ();
+		janelaAdicionaEvento.ShowAll ();
 	}
 
 	protected void SelecionaDiaCalendario (object sender, EventArgs e)
