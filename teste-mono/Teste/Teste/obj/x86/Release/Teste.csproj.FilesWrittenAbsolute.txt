@@ -1,0 +1,6 @@
+/home/gpca/Documents/Repositorios/csharp/teste-mono/Teste/Teste/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gpca/Documents/Repositorios/csharp/teste-mono/Teste/Teste/obj/x86/Release/Teste.gtk-gui.gui.stetic
+/home/gpca/Documents/Repositorios/csharp/teste-mono/Teste/Teste/bin/Release/Teste.exe.mdb
+/home/gpca/Documents/Repositorios/csharp/teste-mono/Teste/Teste/bin/Release/Teste.exe
+/home/gpca/Documents/Repositorios/csharp/teste-mono/Teste/Teste/obj/x86/Release/Teste.exe
+/home/gpca/Documents/Repositorios/csharp/teste-mono/Teste/Teste/obj/x86/Release/Teste.exe.mdb
